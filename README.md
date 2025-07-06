@@ -1,6 +1,6 @@
 Este repositório contém todos os códigos e softwares de labs e aulas para o curso de Controle de Qualidade da Poli USP! Todos os slides e aulas estão disponíveis aqui e no site da disciplina, bem como a organização do grupo.
 
-# Aprendizado de Máquina e Reconhecimento de Padrões
+# Controle de Qualidade
 
 Trata-se do repositório voltado para organizar os códigos desenvolvidos ao longo da disciplina, bem como os exercícios e exercícios programa. A disciplina trata da Introdução ao Controle da Qualidade e Estatística Aplicada.
 
